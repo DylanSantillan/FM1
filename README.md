@@ -3,7 +3,7 @@
 
 This is a nice, small project to practice handling user interactions and updating the DOM. Perfect for anyone who has learned the basics of JavaScript!
 
-**Page Link**: [Link to the page](https://santillan-veterinaria-curso.vercel.app/)
+**Page Link**: [Link to the page](https://fm-1-dylansantillan.vercel.app/)
 
 **Linkedin**: [Dylan Santillán](https://www.linkedin.com/in/dylansantillan/)
 
